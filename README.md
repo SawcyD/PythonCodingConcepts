@@ -47,7 +47,7 @@ List comprehensions provide a concise way to create lists based on existing list
 
 **Tip**: While list comprehensions can make your code more concise, don't try to do too much in a single list comprehension. If your list comprehension is becoming too complex, it might be better to use a traditional loop for clarity.
 
-# Stacks
+## Stacks
 
 A stack is a linear data structure that stores items in a Last-In/First-Out (LIFO) or First-In/Last-Out (FILO) manner. In a stack, a new element is added at one end and an element is removed from that end only.
 
